@@ -20,7 +20,7 @@ This project demonstrates DOM manipulation, event handling, and clean UI design 
 ![Calculator Preview 1](./Prev-img-1.png)
 
 ### Usage Example
-![Calculator Preview 2](./Prev-img-2.png)
+![Calculator Preview 2](./Prev-img-2.png.png)
 
 ---
 
@@ -35,3 +35,9 @@ This project demonstrates DOM manipulation, event handling, and clean UI design 
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+   
+2. Navigate into the project directory:
+ ```bash
+   cd Calculator
+```
+3.Open `index.html` in your browser.
