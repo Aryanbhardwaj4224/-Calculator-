@@ -1,7 +1,10 @@
 # Calculator App
 
 A simple, responsive calculator built with **HTML, CSS, and JavaScript**.  
-This project demonstrates DOM manipulation, event handling, and clean UI design using CSS.
+This project demonstrates DOM manipulation, event handling, and clean UI design using CSS. 
+
+## Click below to see the website
+[Calculator Website](https://aryanbhardwaj4224.github.io/-Calculator-/)
 
 ---
 
@@ -41,3 +44,4 @@ This project demonstrates DOM manipulation, event handling, and clean UI design 
    cd Calculator
 ```
 3.Open `index.html` in your browser.
+
